@@ -1,46 +1,29 @@
-# SQL-Projects
+🍕 Pizza Sales Analysis (SQL Project)
 
-# 🧠 SQL Projects Portfolio
+This project analyzes pizza sales data using SQL to extract business insights from a fictional pizza restaurant. The dataset includes orders, pizza details, and pricing information.
 
-Welcome to my SQL Projects repository!  
-This space is dedicated to my journey in mastering SQL for data analysis, business intelligence, and database management.
+📊 Objectives
+- Analyze total revenue and average order value
+- Identify best-selling and least-selling pizzas
+- Understand peak order hours and days
+- Monthly revenue trends
 
-I will be regularly uploading a variety of real-world SQL projects that answer business-focused questions using structured query language.
+🧰 Tools Used
+- SQL (PostgreSQL)
+- DB Browser for SQLite / MySQL Workbench
+- CSV Files (orders, pizzas, order_details, pizza_types)
 
----
+📁 Files
+- `orders.csv`
+- `order_details.csv`
+- `pizzas.csv`
+- `pizza_types.csv`
+- `pizza_sales_queries.sql` – all SQL queries used in this project
 
-## 📌 What to Expect in This Repository
+✅ Key Learnings
+- Writing optimized SQL queries
+- Performing time-based and product-based analysis
+- Gaining business insights using real-world sales data
 
-In the coming weeks, I’ll be adding case-study-based SQL projects, including:
-
-- 🍕 Pizza Sales Analysis  
-- 🛒 Retail Store Transactions  
-- 👥 HR & Employee Analytics  
-- 🏥 Healthcare Spend Analysis  
-- 🎓 Student Performance Tracking  
-- 🏦 Banking & Loan Data Queries
-
----
-
-## 🎯 Skills Demonstrated
-
-- Writing clean, efficient SQL queries  
-- Data aggregation & filtering with `GROUP BY`, `HAVING`, `WHERE`  
-- Joining multiple tables using `JOINs` (INNER, LEFT, RIGHT)  
-- Subqueries and nested queries  
-- Window functions (e.g., `RANK()`, `OVER()`)  
-- CTEs (Common Table Expressions)  
-- Analytical thinking and data storytelling  
-
----
-
-## 🧰 Tools & Environments
-
-- MySQL / PostgreSQL  
-- MySQL Workbench / pgAdmin / SQLite  
-- Jupyter Notebook (for SQL + Python integrations in the future)  
-- Power BI / Tableau (for data visualization layer — later projects)
-
----
-
-
+🔗 Connect
+Check out more projects on [GitHub](https://github.com/mangal-singh001) or connect on [LinkedIn](https://www.linkedin.com/in/dev-verma-091a14225/).
